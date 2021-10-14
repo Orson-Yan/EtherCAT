@@ -30,4 +30,5 @@ EtherCAT通信由主站发送EtherCAT数据帧读写从站设备的内部存储�
 * [0003_STM32F407_EtherCAT_Project_Base.md](./docs/0003_STM32F407_EtherCAT_Project_Base.md)
 * [0002_EtherCAT_Base.md](./docs/0002_EtherCAT_Base.md)
 * [0001_Ethernet_Theory_of_Operation.md](./docs/0001_Ethernet_Theory_of_Operation.md)
+* Github更新测试
 
